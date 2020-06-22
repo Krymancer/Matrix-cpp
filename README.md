@@ -51,5 +51,4 @@ Found something? Any bug? See space to improvement? Make a issue and/or a pull r
 
 I'm very appreciated for any help
 
-<style>.heart{color:#e25555;}</style>
-Made with <span class="heart">❤</span> and C++
+Made with ❤ and C++
